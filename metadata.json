@@ -1,0 +1,5 @@
+{
+  "name": "WeChat Comment Analyzer",
+  "description": "A tool to parse WeChat video comments and analyze sentiment regarding real estate trends using Google Gemini API.",
+  "requestFramePermissions": []
+}
