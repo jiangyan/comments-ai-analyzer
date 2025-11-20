@@ -1,3 +1,6 @@
+# application UI
+<img width="1123" height="821" alt="image" src="https://github.com/user-attachments/assets/784f46ba-2eda-426e-a491-95dd21f13647" />
+
 # prompt reference
 Let's build a web app to analyze the replied comments under a wechat video:
 read comments.txt, you'll know its structure, as to structure, you can see the attached image for a good reference, basically, it's like this:
